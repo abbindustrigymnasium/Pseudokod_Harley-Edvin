@@ -1,0 +1,6 @@
+1. Plocka ut alla hela 3-pack (347/30 = 3pack)
+2. Hela 3pack mulitplicerat med 30 (Då får man kostnanden för alla 3pack)¨
+3. Pengarna han har (347kr) subtraherat med 3pack kostnanden = (Hur mycket pengar återstår att köpa för)
+4. Pengar som återstår genom 13,95 = antalet separata burkar
+5. Avrunda separata burkar nedåt 
+6. Lägg ihop antalet 3pack mulitplicerat med 3 adderat med antalet avrundade separata burkar = antalet burkar Bengen kan köpa

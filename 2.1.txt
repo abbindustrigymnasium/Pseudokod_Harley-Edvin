@@ -1,0 +1,6 @@
+1. Antal månader du får betalt på ett år (sep till maj (+juni))
+2. Ta anatalet månader mulitplicerat med 3
+3. Ta summan av månaderna mulitplicerat med 1250 kr = summa2
+4. Ta reda på när personen är född
+5. Om personen fyller 16 år i juli-september (summan2 - 625kr = summa3)
+6. Summa3 är personens studiebidrag under gymnasietiden
